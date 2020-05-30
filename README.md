@@ -22,7 +22,7 @@ Browse to root directory of project and run the follow code:
 ```
 $ flutter run
 ```
-If you have more than one device connected in your PC, run with the following code, using the ID device that can be seen in code above.
+If you have more than one device connected in your PC, run with the following code, using the Device ID that can be seen in code above.
 ```
 $ flutter run -d deviceID
 ```
