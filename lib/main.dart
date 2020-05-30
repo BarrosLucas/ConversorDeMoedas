@@ -104,7 +104,7 @@ class _HomeState extends State<Home> {
               if (snapshot.hasError) {
                 return Center(
                     child: Text(
-                  "Falha ao carregar Dados",
+                  snapshot.error.toString(),
                   style: TextStyle(color: Colors.amber, fontSize: 25),
                   textAlign: TextAlign.center,
                 ));
