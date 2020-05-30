@@ -27,4 +27,4 @@ If you have more than one device connected in your PC, run with the following co
 $ flutter run -d deviceID
 ```
 ## App Execution:
-<img src="./assets/gifs/runapp.gif" alt="App execution">
+<img src="./assets/gifs/runapp.gif" alt="App execution" width="30%">
